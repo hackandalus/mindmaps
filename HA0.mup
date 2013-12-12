@@ -275,7 +275,7 @@
           }
         },
         "6": {
-          "title": "Magendo / Econored+wiki - Espacio Compartido",
+          "title": "H-1",
           "id": 38,
           "attr": {
             "style": {
@@ -298,6 +298,33 @@
               "attr": {
                 "style": {
                   "background": "#FFC0CB"
+                }
+              }
+            },
+            "13": {
+              "title": "Espacio Compartido",
+              "id": 80,
+              "attr": {
+                "style": {
+                  "background": "#ADFF2F"
+                }
+              }
+            },
+            "14": {
+              "title": "Magendo",
+              "id": 81,
+              "attr": {
+                "style": {
+                  "background": "#ADFF2F"
+                }
+              }
+            },
+            "15": {
+              "title": "Econored+wiki ",
+              "id": 82,
+              "attr": {
+                "style": {
+                  "background": "#ADFF2F"
                 }
               }
             }
