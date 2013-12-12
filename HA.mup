@@ -1,0 +1,202 @@
+{
+  "title": "HA",
+  "id": 1,
+  "formatVersion": 2,
+  "ideas": {
+    "1": {
+      "title": "Hackerina",
+      "id": 2,
+      "ideas": {
+        "1": {
+          "title": "Apache",
+          "id": 11
+        }
+      },
+      "attr": {
+        "style": {
+          "background": "#0000ff"
+        }
+      }
+    },
+    "2": {
+      "title": "NY server",
+      "id": 6,
+      "ideas": {
+        "1": {
+          "title": "Radiopolina2",
+          "id": 8
+        }
+      },
+      "attr": {
+        "style": {
+          "background": "#0000ff"
+        }
+      }
+    },
+    "3": {
+      "title": "hostinger",
+      "id": 19,
+      "ideas": {
+        "1": {
+          "title": "apache",
+          "id": 20,
+          "ideas": {
+            "1": {
+              "title": "hackandalus.net",
+              "id": 24,
+              "attr": {
+                "style": {
+                  "background": "#339966"
+                }
+              }
+            },
+            "2": {
+              "title": "moodleAndalus",
+              "id": 25,
+              "attr": {
+                "style": {
+                  "background": "#339966"
+                }
+              }
+            },
+            "3": {
+              "title": "gcubo.org",
+              "id": 26,
+              "attr": {
+                "style": {
+                  "background": "#339966"
+                }
+              }
+            },
+            "4": {
+              "title": "proyectos-cig.net",
+              "id": 27,
+              "attr": {
+                "style": {
+                  "background": "#339966"
+                }
+              }
+            },
+            "5": {
+              "title": "hayfuturo.org",
+              "id": 28,
+              "attr": {
+                "style": {
+                  "background": "#339966"
+                }
+              }
+            },
+            "6": {
+              "title": "facpe.org",
+              "id": 30,
+              "attr": {
+                "style": {
+                  "background": "#ff0000"
+                }
+              }
+            },
+            "7": {
+              "title": "laortiga.com",
+              "id": 31,
+              "attr": {
+                "style": {
+                  "background": "#ff0000"
+                }
+              }
+            },
+            "5.5": {
+              "title": "granadasocial",
+              "id": 34,
+              "attr": {
+                "style": {
+                  "background": "#ff0000"
+                }
+              }
+            }
+          }
+        },
+        "2": {
+          "title": "mysql",
+          "id": 35
+        },
+        "3": {
+          "title": "PHP",
+          "id": 36
+        }
+      },
+      "attr": {
+        "style": {
+          "background": "#0000ff"
+        }
+      }
+    },
+    "-1": {
+      "title": "Radiopolina1",
+      "id": 5,
+      "ideas": {
+        "1": {
+          "title": "Apache",
+          "id": 9,
+          "ideas": {
+            "1": {
+              "title": "radiopolis.org",
+              "id": 23,
+              "attr": {
+                "style": {
+                  "background": "#ff0000"
+                }
+              }
+            }
+          }
+        },
+        "2": {
+          "title": "MurMur",
+          "id": 10
+        },
+        "3": {
+          "title": "XMPP server",
+          "id": 29
+        }
+      },
+      "attr": {
+        "style": {
+          "background": "#0000ff"
+        }
+      }
+    },
+    "-2": {
+      "title": "Gnuino",
+      "id": 7,
+      "ideas": {
+        "1": {
+          "title": "Apache",
+          "id": 12,
+          "ideas": {
+            "1": {
+              "title": "hasecurecloud.eu",
+              "id": 13
+            },
+            "2": {
+              "title": "panel",
+              "id": 17
+            }
+          }
+        },
+        "2": {
+          "title": "postfix",
+          "id": 15
+        },
+        "3": {
+          "title": "dns",
+          "id": 16
+        }
+      },
+      "attr": {
+        "style": {
+          "background": "#0000ff"
+        }
+      }
+    }
+  },
+  "links": []
+}
