@@ -302,11 +302,58 @@
               }
             },
             "13": {
-              "title": "Espacio Compartido",
+              "title": "Espacios y Colectivos",
               "id": 80,
               "attr": {
                 "style": {
                   "background": "#ADFF2F"
+                }
+              },
+              "ideas": {
+                "1": {
+                  "title": "Espacio Compartido",
+                  "id": 83,
+                  "attr": {
+                    "style": {
+                      "background": "#ADFF2F"
+                    }
+                  }
+                },
+                "2": {
+                  "title": "RDS",
+                  "id": 84,
+                  "attr": {
+                    "style": {
+                      "background": "#ADFF2F"
+                    }
+                  }
+                },
+                "3": {
+                  "title": "REAS",
+                  "id": 85,
+                  "attr": {
+                    "style": {
+                      "background": "#ADFF2F"
+                    }
+                  }
+                },
+                "4": {
+                  "title": "Axarquía en Transición (Málaga)",
+                  "id": 86,
+                  "attr": {
+                    "style": {
+                      "background": "#ADFF2F"
+                    }
+                  }
+                },
+                "5": {
+                  "title": "Granada Social",
+                  "id": 87,
+                  "attr": {
+                    "style": {
+                      "background": "#ADFF2F"
+                    }
+                  }
                 }
               }
             },
