@@ -1,0 +1,530 @@
+{
+  "title": "HA",
+  "id": 1,
+  "formatVersion": 2,
+  "ideas": {
+    "1": {
+      "title": "URGENTE",
+      "id": 10,
+      "ideas": {
+        "1": {
+          "title": "WEB propia",
+          "id": 4,
+          "ideas": {
+            "1": {
+              "title": "Nuevo diseño",
+              "id": 5,
+              "attr": {
+                "style": {
+                  "background": "#FF7F50"
+                }
+              }
+            },
+            "2": {
+              "title": "Camapaña de Difusión Servicios",
+              "id": 6,
+              "ideas": {
+                "1": {
+                  "title": "Hoja de Servicios - Fancine",
+                  "id": 8,
+                  "attr": {
+                    "style": {
+                      "background": "#FF7F50"
+                    }
+                  }
+                },
+                "2": {
+                  "title": "Tarjetas",
+                  "id": 9
+                }
+              }
+            },
+            "3": {
+              "title": "Integrar Mapunto",
+              "id": 7,
+              "attr": {
+                "style": {
+                  "background": "#ADFF2F"
+                }
+              }
+            },
+            "4": {
+              "title": "Mejorar Contenidos",
+              "id": 66
+            },
+            "1.5": {
+              "title": "Estructurar con el diseño",
+              "id": 67,
+              "attr": {
+                "style": {
+                  "background": "#FFC0CB"
+                }
+              }
+            }
+          }
+        },
+        "2": {
+          "title": "Radiopolis",
+          "id": 11,
+          "ideas": {
+            "1": {
+              "title": "Satélite-Inet",
+              "id": 14,
+              "ideas": {
+                "1": {
+                  "title": "Ampliar paquete datos a 30GB",
+                  "id": 51,
+                  "attr": {
+                    "style": {
+                      "background": "#F4A460"
+                    }
+                  }
+                }
+              }
+            },
+            "2": {
+              "title": "Unidades móviles",
+              "id": 15,
+              "ideas": {
+                "1": {
+                  "title": "Raspberry",
+                  "id": 16
+                },
+                "2": {
+                  "title": "Portatil",
+                  "id": 17,
+                  "attr": {
+                    "style": {
+                      "background": "#F4A460"
+                    }
+                  }
+                }
+              }
+            },
+            "3": {
+              "title": "Streaming - Icecast",
+              "id": 28,
+              "attr": {
+                "style": {
+                  "background": "#FF00FF"
+                }
+              }
+            }
+          }
+        },
+        "3": {
+          "title": "Eventos",
+          "id": 18,
+          "ideas": {
+            "1": {
+              "title": "III Encuentro Decrecimiento / Transición",
+              "id": 19
+            },
+            "2": {
+              "title": "III Jornadas OpenKratio",
+              "id": 21
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#E0E0E0"
+            }
+          }
+        },
+        "4": {
+          "title": "Web Moda",
+          "id": 53,
+          "attr": {
+            "style": {
+              "background": "#FFC0CB"
+            }
+          }
+        }
+      },
+      "attr": {
+        "style": {
+          "background": "#FF0000"
+        }
+      }
+    },
+    "2": {
+      "title": "ACCESORIO",
+      "id": 68,
+      "ideas": {
+        "2": {
+          "title": "Hackmeeting",
+          "id": 70
+        },
+        "12": {
+          "title": "Hackesí",
+          "id": 69,
+          "attr": {
+            "style": {
+              "background": "#ADFF2F"
+            }
+          }
+        }
+      },
+      "attr": {
+        "style": {
+          "background": "#6B8E23"
+        }
+      }
+    },
+    "-1": {
+      "title": "IMPORTANTE",
+      "id": 22,
+      "attr": {
+        "style": {
+          "background": "#008000"
+        }
+      },
+      "ideas": {
+        "1": {
+          "title": "CIG",
+          "id": 23,
+          "ideas": {
+            "1": {
+              "title": "Salmelada",
+              "id": 29
+            },
+            "2": {
+              "title": "GCUBO",
+              "id": 30
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#FF00FF"
+            }
+          }
+        },
+        "2": {
+          "title": "Radiopolis",
+          "id": 26,
+          "ideas": {
+            "1": {
+              "title": "Router VozIP",
+              "id": 27,
+              "attr": {
+                "style": {
+                  "background": "#FF00FF"
+                }
+              }
+            },
+            "2": {
+              "title": "RADIOPOLINA",
+              "id": 40,
+              "ideas": {
+                "1": {
+                  "title": "Nat Satélite",
+                  "id": 41,
+                  "attr": {
+                    "style": {
+                      "background": "#FF00FF"
+                    }
+                  }
+                },
+                "2": {
+                  "title": "RedJara",
+                  "id": 52,
+                  "attr": {
+                    "style": {
+                      "background": "#FF00FF"
+                    }
+                  }
+                },
+                "3": {
+                  "title": "Cyclos",
+                  "id": 71,
+                  "attr": {
+                    "style": {
+                      "background": "#FF00FF"
+                    }
+                  }
+                },
+                "4": {
+                  "title": "Mumble",
+                  "id": 72
+                }
+              },
+              "attr": {
+                "style": {
+                  "background": "#00008B"
+                }
+              }
+            }
+          }
+        },
+        "4": {
+          "title": "REAS Sevilla",
+          "id": 33,
+          "attr": {
+            "style": {
+              "background": "#ADFF2F"
+            }
+          }
+        },
+        "5": {
+          "title": "Tryton - Ortiga / tiendas",
+          "id": 37,
+          "attr": {
+            "style": {
+              "background": "#F4A460"
+            }
+          }
+        },
+        "6": {
+          "title": "Magendo / Econored+wiki - Espacio Compartido",
+          "id": 38,
+          "attr": {
+            "style": {
+              "background": "#ADFF2F"
+            }
+          },
+          "ideas": {
+            "2": {
+              "title": "Mapunto",
+              "id": 32,
+              "attr": {
+                "style": {
+                  "background": "#ADFF2F"
+                }
+              }
+            },
+            "12": {
+              "title": "Integral CES",
+              "id": 59,
+              "attr": {
+                "style": {
+                  "background": "#FFC0CB"
+                }
+              }
+            }
+          }
+        },
+        "2.5": {
+          "title": "Tramallol",
+          "id": 43,
+          "ideas": {
+            "1": {
+              "title": "HACKERINA",
+              "id": 44,
+              "ideas": {
+                "1": {
+                  "title": "IP Fija",
+                  "id": 45
+                }
+              },
+              "attr": {
+                "style": {
+                  "background": "#00008B"
+                }
+              }
+            }
+          }
+        },
+        "2.25": {
+          "title": "NUBE",
+          "id": 49,
+          "ideas": {
+            "2": {
+              "title": "Hostings Externos",
+              "id": 73,
+              "ideas": {
+                "1": {
+                  "title": "NY",
+                  "id": 74,
+                  "ideas": {
+                    "1": {
+                      "title": "Mumble",
+                      "id": 78
+                    }
+                  }
+                },
+                "2": {
+                  "title": "Hostinger",
+                  "id": 75,
+                  "ideas": {
+                    "1": {
+                      "title": "Cambio a otro estable - microcortes",
+                      "id": 76
+                    }
+                  }
+                }
+              },
+              "attr": {
+                "style": {
+                  "background": "#7FFFD4"
+                }
+              }
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#FF00FF"
+            }
+          }
+        }
+      }
+    },
+    "-11": {
+      "title": "PEÑA",
+      "id": 54,
+      "ideas": {
+        "1": {
+          "title": "Sioux",
+          "id": 55,
+          "attr": {
+            "style": {
+              "background": "#FF00FF"
+            }
+          },
+          "ideas": {
+            "1": {
+              "title": "fuchsia",
+              "id": 60,
+              "attr": {
+                "style": {
+                  "background": "#FF00FF"
+                }
+              }
+            }
+          }
+        },
+        "2": {
+          "title": "Mnolae",
+          "id": 56,
+          "attr": {
+            "style": {
+              "background": "#FFC0CB"
+            }
+          },
+          "ideas": {
+            "1": {
+              "title": "pink",
+              "id": 61,
+              "attr": {
+                "style": {
+                  "background": "#FFC0CB"
+                }
+              }
+            }
+          }
+        },
+        "3": {
+          "title": "Tyler",
+          "id": 57,
+          "attr": {
+            "style": {
+              "background": "#F4A460"
+            }
+          },
+          "ideas": {
+            "1": {
+              "title": "sandybrown",
+              "id": 62,
+              "attr": {
+                "style": {
+                  "background": "#F4A460"
+                }
+              }
+            }
+          }
+        },
+        "4": {
+          "title": "Jusore",
+          "id": 58,
+          "attr": {
+            "style": {
+              "background": "#ADFF2F"
+            }
+          },
+          "ideas": {
+            "1": {
+              "title": "greenyellow",
+              "id": 63,
+              "attr": {
+                "style": {
+                  "background": "#ADFF2F"
+                }
+              }
+            }
+          }
+        },
+        "5": {
+          "title": "Alberludo",
+          "id": 64,
+          "attr": {
+            "style": {
+              "background": "#FF7F50"
+            }
+          },
+          "ideas": {
+            "1": {
+              "title": "coral",
+              "id": 65,
+              "attr": {
+                "style": {
+                  "background": "#FF7F50"
+                }
+              }
+            }
+          }
+        }
+      },
+      "attr": {
+        "style": {
+          "background": "#0000FF"
+        }
+      }
+    }
+  },
+  "links": [
+    {
+      "ideaIdFrom": 33,
+      "ideaIdTo": 32,
+      "attr": {
+        "style": {
+          "color": "#FF0000",
+          "lineStyle": "dashed"
+        }
+      }
+    },
+    {
+      "ideaIdFrom": 49,
+      "ideaIdTo": 40,
+      "attr": {
+        "style": {
+          "color": "#FF0000",
+          "lineStyle": "dashed"
+        }
+      }
+    },
+    {
+      "ideaIdFrom": 49,
+      "ideaIdTo": 44,
+      "attr": {
+        "style": {
+          "color": "#FF0000",
+          "lineStyle": "dashed"
+        }
+      }
+    },
+    {
+      "ideaIdFrom": 15,
+      "ideaIdTo": 18,
+      "attr": {
+        "style": {
+          "color": "#FF0000",
+          "lineStyle": "dashed"
+        }
+      }
+    }
+  ],
+  "attr": {
+    "style": {
+      "background": "#99cc00"
+    }
+  }
+}
