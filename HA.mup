@@ -23,7 +23,7 @@
       "id": 6,
       "ideas": {
         "1": {
-          "title": "Radiopolina2",
+          "title": "Axigen",
           "id": 8
         }
       },
@@ -42,16 +42,17 @@
           "id": 20,
           "ideas": {
             "1": {
-              "title": "hackandalus.net",
+              "title": "hackandalus.net (drupal)",
               "id": 24,
               "attr": {
                 "style": {
                   "background": "#339966"
                 }
-              }
+              },
+              "ideas": {}
             },
             "2": {
-              "title": "moodleAndalus",
+              "title": "moodleAndalus (moodle)",
               "id": 25,
               "attr": {
                 "style": {
@@ -60,7 +61,7 @@
               }
             },
             "3": {
-              "title": "gcubo.org",
+              "title": "gcubo.org (wordpress)",
               "id": 26,
               "attr": {
                 "style": {
@@ -69,7 +70,7 @@
               }
             },
             "4": {
-              "title": "proyectos-cig.net",
+              "title": "proyectos-cig.net (wordpress)",
               "id": 27,
               "attr": {
                 "style": {
@@ -78,7 +79,7 @@
               }
             },
             "5": {
-              "title": "hayfuturo.org",
+              "title": "hayfuturo.org (wordpress)",
               "id": 28,
               "attr": {
                 "style": {
@@ -87,7 +88,7 @@
               }
             },
             "6": {
-              "title": "facpe.org",
+              "title": "facpe.org (joomla)",
               "id": 30,
               "attr": {
                 "style": {
@@ -96,7 +97,7 @@
               }
             },
             "7": {
-              "title": "laortiga.com",
+              "title": "laortiga.com (joomla)",
               "id": 31,
               "attr": {
                 "style": {
@@ -104,8 +105,17 @@
                 }
               }
             },
+            "8": {
+              "title": "econored (elgg)",
+              "id": 41,
+              "attr": {
+                "style": {
+                  "background": "#E0E0E0"
+                }
+              }
+            },
             "5.5": {
-              "title": "granadasocial",
+              "title": "granadasocial.org (wordpress)",
               "id": 34,
               "attr": {
                 "style": {
@@ -147,15 +157,58 @@
                 }
               }
             }
+          },
+          "attr": {
+            "style": {
+              "background": "#ff0000"
+            }
           }
         },
         "2": {
           "title": "MurMur",
-          "id": 10
+          "id": 10,
+          "attr": {
+            "style": {
+              "background": "#ff0000"
+            }
+          },
+          "ideas": {}
         },
         "3": {
           "title": "XMPP server",
-          "id": 29
+          "id": 29,
+          "attr": {
+            "style": {
+              "background": "#ff0000"
+            }
+          }
+        },
+        "4": {
+          "title": "Icecast",
+          "id": 38,
+          "attr": {
+            "style": {
+              "background": "#ff0000"
+            }
+          }
+        },
+        "1.5": {
+          "title": "mysql",
+          "id": 44,
+          "attr": {
+            "style": {
+              "background": "#ff0000"
+            }
+          }
+        },
+        "1.75": {
+          "title": "PHP",
+          "id": 45,
+          "attr": {
+            "style": {
+              "background": "#ff0000"
+            }
+          }
         }
       },
       "attr": {
@@ -189,11 +242,59 @@
         "3": {
           "title": "dns",
           "id": 16
+        },
+        "4": {
+          "title": "MurMur",
+          "id": 46
+        },
+        "14": {
+          "title": "PHP",
+          "id": 49
+        },
+        "15": {
+          "title": "Python",
+          "id": 50
+        },
+        "16": {
+          "title": "Ruby",
+          "id": 51
+        },
+        "17": {
+          "title": "Java",
+          "id": 52
+        },
+        "18": {
+          "title": "GIT",
+          "id": 53
+        },
+        "1.5": {
+          "title": "mysql",
+          "id": 48
         }
       },
       "attr": {
         "style": {
           "background": "#0000ff"
+        }
+      }
+    },
+    "-3": {
+      "title": "Gnuino2",
+      "id": 42,
+      "attr": {
+        "style": {
+          "background": "#0000ff"
+        }
+      },
+      "ideas": {
+        "1": {
+          "title": "Icecast",
+          "id": 43,
+          "attr": {
+            "style": {
+              "background": "#339966"
+            }
+          }
         }
       }
     }
