@@ -45,6 +45,10 @@
               "attr": {
                 "style": {
                   "background": "#ADFF2F"
+                },
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "<a href=\"http://hackandalus.net/econored/\">http://hackandalus.net/econored/</a>"
                 }
               }
             },
@@ -284,11 +288,15 @@
           },
           "ideas": {
             "2": {
-              "title": "Mapunto",
+              "title": "Mapunto Andaluz",
               "id": 32,
               "attr": {
                 "style": {
                   "background": "#ADFF2F"
+                },
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "http://<span style=\"font-size: 14px;\">mapa.sevilladecrece.net/</span>"
                 }
               }
             },
@@ -310,15 +318,6 @@
                 }
               },
               "ideas": {
-                "1": {
-                  "title": "Espacio Compartido",
-                  "id": 83,
-                  "attr": {
-                    "style": {
-                      "background": "#ADFF2F"
-                    }
-                  }
-                },
                 "2": {
                   "title": "RDS",
                   "id": 84,
@@ -349,6 +348,15 @@
                 "5": {
                   "title": "Granada Social",
                   "id": 87,
+                  "attr": {
+                    "style": {
+                      "background": "#ADFF2F"
+                    }
+                  }
+                },
+                "15": {
+                  "title": "Espacio Compartido",
+                  "id": 83,
                   "attr": {
                     "style": {
                       "background": "#ADFF2F"
@@ -646,6 +654,36 @@
     {
       "ideaIdFrom": 90,
       "ideaIdTo": 26,
+      "attr": {
+        "style": {
+          "color": "#FF0000",
+          "lineStyle": "dashed"
+        }
+      }
+    },
+    {
+      "ideaIdFrom": 32,
+      "ideaIdTo": 84,
+      "attr": {
+        "style": {
+          "color": "#FF0000",
+          "lineStyle": "dashed"
+        }
+      }
+    },
+    {
+      "ideaIdFrom": 32,
+      "ideaIdTo": 85,
+      "attr": {
+        "style": {
+          "color": "#FF0000",
+          "lineStyle": "dashed"
+        }
+      }
+    },
+    {
+      "ideaIdFrom": 32,
+      "ideaIdTo": 86,
       "attr": {
         "style": {
           "color": "#FF0000",
