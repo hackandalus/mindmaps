@@ -194,12 +194,30 @@
             },
             "2": {
               "title": "GCUBO",
-              "id": 30
+              "id": 30,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "<a href=\"http://gcubo.org/\">http://gcubo.org/</a>"
+                },
+                "style": {
+                  "background": "#E0E0E0"
+                }
+              },
+              "ideas": {}
+            },
+            "3": {
+              "title": "Prestashop",
+              "id": 95
             }
           },
           "attr": {
             "style": {
               "background": "#FF00FF"
+            },
+            "attachment": {
+              "contentType": "text/html",
+              "content": "<a href=\"http://ci-granaina.org/\">http://ci-granaina.org/</a>"
             }
           }
         },
@@ -266,6 +284,10 @@
           "attr": {
             "style": {
               "background": "#ADFF2F"
+            },
+            "attachment": {
+              "contentType": "text/html",
+              "content": "http://reas.sevillaentransicion.net"
             }
           }
         },
@@ -455,6 +477,10 @@
                           "attr": {
                             "style": {
                               "background": "#ff00ff"
+                            },
+                            "attachment": {
+                              "contentType": "text/html",
+                              "content": "<a href=\"http://ecosalud.hackandalus.net/\">http://ecosalud.hackandalus.net/</a><div><a href=\"http://redecosalud.wordpress.com/\">http://redecosalud.wordpress.com/</a><br></div>"
                             }
                           }
                         }
@@ -462,6 +488,10 @@
                       "attr": {
                         "style": {
                           "background": "#ff00ff"
+                        },
+                        "attachment": {
+                          "contentType": "text/html",
+                          "content": "<a href=\"http://theblackbit.org/moodle2/login/index.php\">http://theblackbit.org/moodle2/login/index.php</a>"
                         }
                       }
                     }
@@ -478,6 +508,10 @@
           "attr": {
             "style": {
               "background": "#FF00FF"
+            },
+            "attachment": {
+              "contentType": "text/html",
+              "content": "<a href=\"http://cloud.hackandalus.net/\">http://cloud.hackandalus.net</a>"
             }
           }
         },
