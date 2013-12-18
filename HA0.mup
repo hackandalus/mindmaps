@@ -367,11 +367,28 @@
               }
             },
             "15": {
-              "title": "Econored+wiki ",
+              "title": "Econored",
               "id": 82,
               "attr": {
                 "style": {
                   "background": "#ADFF2F"
+                },
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "<a href=\"http://hackandalus.net/econored/\">http://hackandalus.net/econored/</a>"
+                }
+              }
+            },
+            "16": {
+              "title": "Econowiki",
+              "id": 93,
+              "attr": {
+                "style": {
+                  "background": "#ADFF2F"
+                },
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "<a href=\"http://hackandalus.net/econored/\" target=\"_blank\">http://hackandalus.net/econowiki/</a>"
                 }
               }
             }
