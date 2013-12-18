@@ -455,6 +455,26 @@
               "background": "#FF00FF"
             }
           }
+        },
+        "1.5": {
+          "title": "OpenRadio",
+          "id": 90,
+          "attr": {
+            "style": {
+              "background": "#E0E0E0"
+            }
+          },
+          "ideas": {
+            "1": {
+              "title": "OpenKratio",
+              "id": 91,
+              "attr": {
+                "style": {
+                  "background": "#ff00ff"
+                }
+              }
+            }
+          }
         }
       }
     },
@@ -604,6 +624,16 @@
     {
       "ideaIdFrom": 15,
       "ideaIdTo": 18,
+      "attr": {
+        "style": {
+          "color": "#FF0000",
+          "lineStyle": "dashed"
+        }
+      }
+    },
+    {
+      "ideaIdFrom": 90,
+      "ideaIdTo": 26,
       "attr": {
         "style": {
           "color": "#FF0000",
