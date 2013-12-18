@@ -421,8 +421,24 @@
                   "id": 75,
                   "ideas": {
                     "1": {
-                      "title": "Cambio a otro estable - microcortes",
-                      "id": 76
+                      "title": "MoodleAndalus",
+                      "id": 76,
+                      "ideas": {
+                        "1": {
+                          "title": "Ecosalud",
+                          "id": 89,
+                          "attr": {
+                            "style": {
+                              "background": "#ff00ff"
+                            }
+                          }
+                        }
+                      },
+                      "attr": {
+                        "style": {
+                          "background": "#ff00ff"
+                        }
+                      }
                     }
                   }
                 }
