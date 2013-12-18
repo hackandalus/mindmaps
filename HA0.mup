@@ -262,6 +262,10 @@
                   "attr": {
                     "style": {
                       "background": "#FF00FF"
+                    },
+                    "attachment": {
+                      "contentType": "text/html",
+                      "content": "<a href=\"http://comunidad.redjara.net/\">http://comunidad.redjara.net/</a>"
                     }
                   }
                 },
