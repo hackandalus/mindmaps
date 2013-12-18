@@ -462,20 +462,7 @@
                 }
               }
             },
-            "15": {
-              "title": "Econored",
-              "id": 82,
-              "attr": {
-                "style": {
-                  "background": "#ADFF2F"
-                },
-                "attachment": {
-                  "contentType": "text/html",
-                  "content": "<a href=\"http://hackandalus.net/econored/\">http://hackandalus.net/econored/</a>"
-                }
-              }
-            },
-            "16": {
+            "24": {
               "title": "Econowiki",
               "id": 93,
               "attr": {
@@ -485,6 +472,19 @@
                 "attachment": {
                   "contentType": "text/html",
                   "content": "<a href=\"http://hackandalus.net/econored/\" target=\"_blank\">http://hackandalus.net/econowiki/</a>"
+                }
+              }
+            },
+            "13.5": {
+              "title": "Econored",
+              "id": 82,
+              "attr": {
+                "style": {
+                  "background": "#ADFF2F"
+                },
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "<a href=\"http://hackandalus.net/econored/\">http://hackandalus.net/econored/</a>"
                 }
               }
             }
