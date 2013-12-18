@@ -106,7 +106,7 @@
               }
             },
             "8": {
-              "title": "econored (elgg)",
+              "title": "/econored (elgg)",
               "id": 41,
               "attr": {
                 "style": {
@@ -114,12 +114,25 @@
                 }
               }
             },
+            "10": {
+              "title": "/redjara",
+              "id": 55
+            },
             "5.5": {
               "title": "granadasocial.org (wordpress)",
               "id": 34,
               "attr": {
                 "style": {
                   "background": "#ff0000"
+                }
+              }
+            },
+            "1.5": {
+              "title": "comunidad.redjara.net (elgg)",
+              "id": 54,
+              "attr": {
+                "style": {
+                  "background": "#339966"
                 }
               }
             }
