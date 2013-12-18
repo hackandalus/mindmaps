@@ -461,18 +461,13 @@
           "id": 90,
           "attr": {
             "style": {
-              "background": "#E0E0E0"
+              "background": "#ff00ff"
             }
           },
           "ideas": {
             "1": {
               "title": "OpenKratio",
-              "id": 91,
-              "attr": {
-                "style": {
-                  "background": "#ff00ff"
-                }
-              }
+              "id": 92
             }
           }
         }
