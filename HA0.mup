@@ -387,6 +387,10 @@
                   "attr": {
                     "style": {
                       "background": "#ADFF2F"
+                    },
+                    "attachment": {
+                      "contentType": "text/html",
+                      "content": "<a href=\"http://granadasocial.org/\">http://granadasocial.org/</a>"
                     }
                   }
                 },
