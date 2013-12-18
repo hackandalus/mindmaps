@@ -374,6 +374,10 @@
                   "attr": {
                     "style": {
                       "background": "#ADFF2F"
+                    },
+                    "attachment": {
+                      "contentType": "text/html",
+                      "content": "http://axarquiaentransicion.org"
                     }
                   }
                 },
@@ -392,6 +396,10 @@
                   "attr": {
                     "style": {
                       "background": "#ADFF2F"
+                    },
+                    "attachment": {
+                      "contentType": "text/html",
+                      "content": "<a href=\"http://agendaespaciocompartido.blogspot.com.es/\">http://agendaespaciocompartido.blogspot.com.es/</a>"
                     }
                   }
                 },
@@ -416,6 +424,41 @@
               "attr": {
                 "style": {
                   "background": "#ADFF2F"
+                }
+              },
+              "ideas": {
+                "1": {
+                  "title": "Softwares previos al desarrollo",
+                  "id": 98,
+                  "ideas": {
+                    "1": {
+                      "title": "Demosphere",
+                      "id": 99,
+                      "attr": {
+                        "attachment": {
+                          "contentType": "text/html",
+                          "content": "<a href=\"http://main.demosphere.eu/es\">http://main.demosphere.eu/es</a>"
+                        },
+                        "style": {
+                          "background": "#E0E0E0"
+                        }
+                      },
+                      "ideas": {}
+                    },
+                    "0.5": {
+                      "title": "Lalinternaverde",
+                      "id": 101,
+                      "attr": {
+                        "attachment": {
+                          "contentType": "text/html",
+                          "content": "<a href=\"http://www.lalinternaverde.org/\" target=\"_blank\" rel=\"nofollow\" style=\"color: rgb(59, 89, 152); cursor: pointer; font-family: 'lucida grande', tahoma, verdana, arial, sans-serif; font-size: 11px; line-height: 15px;\">http://www.lalinternaverde.org</a>"
+                        },
+                        "style": {
+                          "background": "#E0E0E0"
+                        }
+                      }
+                    }
+                  }
                 }
               }
             },
@@ -731,6 +774,26 @@
     {
       "ideaIdFrom": 32,
       "ideaIdTo": 86,
+      "attr": {
+        "style": {
+          "color": "#FF0000",
+          "lineStyle": "dashed"
+        }
+      }
+    },
+    {
+      "ideaIdFrom": 81,
+      "ideaIdTo": 82,
+      "attr": {
+        "style": {
+          "color": "#FF0000",
+          "lineStyle": "dashed"
+        }
+      }
+    },
+    {
+      "ideaIdFrom": 101,
+      "ideaIdTo": 33,
       "attr": {
         "style": {
           "color": "#FF0000",
