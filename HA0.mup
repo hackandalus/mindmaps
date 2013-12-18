@@ -122,7 +122,16 @@
           "ideas": {
             "1": {
               "title": "III Encuentro Decrecimiento / Transición",
-              "id": 19
+              "id": 19,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "<a href=\"http://encuentrodecrecentista2013.wordpress.com/\">http://encuentrodecrecentista2013.wordpress.com/</a>"
+                },
+                "style": {
+                  "background": "#E0E0E0"
+                }
+              }
             },
             "2": {
               "title": "III Jornadas OpenKratio",
@@ -278,19 +287,6 @@
             }
           }
         },
-        "4": {
-          "title": "REAS Sevilla",
-          "id": 33,
-          "attr": {
-            "style": {
-              "background": "#ADFF2F"
-            },
-            "attachment": {
-              "contentType": "text/html",
-              "content": "http://reas.sevillaentransicion.net"
-            }
-          }
-        },
         "5": {
           "title": "Tryton - Ortiga / tiendas",
           "id": 37,
@@ -346,15 +342,29 @@
                   "attr": {
                     "style": {
                       "background": "#ADFF2F"
+                    },
+                    "attachment": {
+                      "contentType": "text/html",
+                      "content": "<a href=\"http://sevilladecrece.net/\">http://sevilladecrece.net/</a>"
                     }
-                  }
-                },
-                "3": {
-                  "title": "REAS",
-                  "id": 85,
-                  "attr": {
-                    "style": {
-                      "background": "#ADFF2F"
+                  },
+                  "ideas": {
+                    "1": {
+                      "title": "beta",
+                      "id": 96
+                    },
+                    "2": {
+                      "title": "beta2",
+                      "id": 97,
+                      "attr": {
+                        "attachment": {
+                          "contentType": "text/html",
+                          "content": "<div>En desarrollo, futura web de la RDS</div><a href=\"http://beta.sevilladecrece.net/\">http://beta.sevilladecrece.net/</a>"
+                        },
+                        "style": {
+                          "background": "#E0E0E0"
+                        }
+                      }
                     }
                   }
                 },
@@ -382,6 +392,19 @@
                   "attr": {
                     "style": {
                       "background": "#ADFF2F"
+                    }
+                  }
+                },
+                "2.5": {
+                  "title": "REAS Sevilla",
+                  "id": 33,
+                  "attr": {
+                    "style": {
+                      "background": "#ADFF2F"
+                    },
+                    "attachment": {
+                      "contentType": "text/html",
+                      "content": "http://reas.sevillaentransicion.net"
                     }
                   }
                 }
@@ -698,16 +721,6 @@
     {
       "ideaIdFrom": 32,
       "ideaIdTo": 84,
-      "attr": {
-        "style": {
-          "color": "#FF0000",
-          "lineStyle": "dashed"
-        }
-      }
-    },
-    {
-      "ideaIdFrom": 32,
-      "ideaIdTo": 85,
       "attr": {
         "style": {
           "color": "#FF0000",
