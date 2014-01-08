@@ -4,146 +4,9 @@
   "formatVersion": 2,
   "ideas": {
     "1": {
-      "title": "URGENTE",
+      "title": "Externos",
       "id": 10,
       "ideas": {
-        "1": {
-          "title": "WEB propia",
-          "id": 4,
-          "ideas": {
-            "1": {
-              "title": "Nuevo diseño",
-              "id": 5,
-              "attr": {
-                "style": {
-                  "background": "#FF7F50"
-                }
-              }
-            },
-            "2": {
-              "title": "Camapaña de Difusión Servicios",
-              "id": 6,
-              "ideas": {
-                "1": {
-                  "title": "Hoja de Servicios - Fancine",
-                  "id": 8,
-                  "attr": {
-                    "style": {
-                      "background": "#FF7F50"
-                    }
-                  }
-                },
-                "2": {
-                  "title": "Tarjetas",
-                  "id": 9
-                }
-              }
-            },
-            "3": {
-              "title": "Integrar Mapunto",
-              "id": 7,
-              "attr": {
-                "style": {
-                  "background": "#ADFF2F"
-                },
-                "attachment": {
-                  "contentType": "text/html",
-                  "content": "<a href=\"http://hackandalus.net/econored/\">http://hackandalus.net/econored/</a>"
-                }
-              }
-            },
-            "4": {
-              "title": "Mejorar Contenidos",
-              "id": 66
-            },
-            "1.5": {
-              "title": "Estructurar con el diseño",
-              "id": 67,
-              "attr": {
-                "style": {
-                  "background": "#FFC0CB"
-                }
-              }
-            }
-          }
-        },
-        "2": {
-          "title": "Radiopolis",
-          "id": 11,
-          "ideas": {
-            "1": {
-              "title": "Satélite-Inet",
-              "id": 14,
-              "ideas": {
-                "1": {
-                  "title": "Ampliar paquete datos a 30GB",
-                  "id": 51,
-                  "attr": {
-                    "style": {
-                      "background": "#F4A460"
-                    }
-                  }
-                }
-              }
-            },
-            "2": {
-              "title": "Unidades móviles",
-              "id": 15,
-              "ideas": {
-                "1": {
-                  "title": "Raspberry",
-                  "id": 16
-                },
-                "2": {
-                  "title": "Portatil",
-                  "id": 17,
-                  "attr": {
-                    "style": {
-                      "background": "#F4A460"
-                    }
-                  }
-                }
-              }
-            },
-            "3": {
-              "title": "Streaming - Icecast",
-              "id": 28,
-              "attr": {
-                "style": {
-                  "background": "#FF00FF"
-                }
-              }
-            }
-          }
-        },
-        "3": {
-          "title": "Eventos",
-          "id": 18,
-          "ideas": {
-            "1": {
-              "title": "III Encuentro Decrecimiento / Transición",
-              "id": 19,
-              "attr": {
-                "attachment": {
-                  "contentType": "text/html",
-                  "content": "<a href=\"http://encuentrodecrecentista2013.wordpress.com/\">http://encuentrodecrecentista2013.wordpress.com/</a>"
-                },
-                "style": {
-                  "background": "#E0E0E0"
-                }
-              }
-            },
-            "2": {
-              "title": "III Jornadas OpenKratio",
-              "id": 21
-            }
-          },
-          "attr": {
-            "style": {
-              "background": "#E0E0E0"
-            }
-          }
-        },
         "4": {
           "title": "Web Moda",
           "id": 53,
@@ -161,11 +24,11 @@
       }
     },
     "2": {
-      "title": "ACCESORIO",
+      "title": "Hackers",
       "id": 68,
       "ideas": {
         "2": {
-          "title": "Hackmeeting",
+          "title": "Hackmeeting 2014",
           "id": 70
         },
         "12": {
@@ -184,488 +47,42 @@
         }
       }
     },
-    "-1": {
-      "title": "IMPORTANTE",
-      "id": 22,
-      "attr": {
-        "style": {
-          "background": "#008000"
-        }
-      },
+    "3": {
+      "title": "Radiopolis",
+      "id": 11,
       "ideas": {
         "1": {
-          "title": "CIG",
-          "id": 23,
-          "ideas": {
-            "1": {
-              "title": "Salmelada",
-              "id": 29
-            },
-            "2": {
-              "title": "GCUBO",
-              "id": 30,
-              "attr": {
-                "attachment": {
-                  "contentType": "text/html",
-                  "content": "<a href=\"http://gcubo.org/\">http://gcubo.org/</a>"
-                },
-                "style": {
-                  "background": "#E0E0E0"
-                }
-              },
-              "ideas": {}
-            },
-            "3": {
-              "title": "Prestashop",
-              "id": 95
-            }
-          },
-          "attr": {
-            "style": {
-              "background": "#FF00FF"
-            },
-            "attachment": {
-              "contentType": "text/html",
-              "content": "<a href=\"http://ci-granaina.org/\">http://ci-granaina.org/</a>"
-            }
-          }
-        },
-        "2": {
-          "title": "Radiopolis",
-          "id": 26,
-          "ideas": {
-            "1": {
-              "title": "Router VozIP",
-              "id": 27,
-              "attr": {
-                "style": {
-                  "background": "#FF00FF"
-                }
-              }
-            },
-            "2": {
-              "title": "RADIOPOLINA",
-              "id": 40,
-              "ideas": {
-                "1": {
-                  "title": "Nat Satélite",
-                  "id": 41,
-                  "attr": {
-                    "style": {
-                      "background": "#FF00FF"
-                    }
-                  }
-                },
-                "2": {
-                  "title": "RedJara",
-                  "id": 52,
-                  "attr": {
-                    "style": {
-                      "background": "#FF00FF"
-                    },
-                    "attachment": {
-                      "contentType": "text/html",
-                      "content": "<a href=\"http://comunidad.redjara.net/\">http://comunidad.redjara.net/</a>"
-                    }
-                  }
-                },
-                "3": {
-                  "title": "Cyclos",
-                  "id": 71,
-                  "attr": {
-                    "style": {
-                      "background": "#FF00FF"
-                    }
-                  }
-                },
-                "4": {
-                  "title": "Mumble",
-                  "id": 72
-                }
-              },
-              "attr": {
-                "style": {
-                  "background": "#00008B"
-                }
-              }
-            }
-          }
-        },
-        "5": {
-          "title": "Tryton - Ortiga / tiendas",
-          "id": 37,
-          "attr": {
-            "style": {
-              "background": "#F4A460"
-            }
-          }
-        },
-        "6": {
-          "title": "H-1",
-          "id": 38,
-          "attr": {
-            "style": {
-              "background": "#ADFF2F"
-            }
-          },
+          "title": "Internet",
+          "id": 14,
           "ideas": {
             "2": {
-              "title": "Mapunto Andaluz",
-              "id": 32,
-              "attr": {
-                "style": {
-                  "background": "#ADFF2F"
-                },
-                "attachment": {
-                  "contentType": "text/html",
-                  "content": "http://<span style=\"font-size: 14px;\">mapa.sevilladecrece.net/</span>"
-                }
-              }
-            },
-            "12": {
-              "title": "Integral CES",
-              "id": 59,
-              "attr": {
-                "style": {
-                  "background": "#FFC0CB"
-                }
-              }
-            },
-            "13": {
-              "title": "Espacios y Colectivos",
-              "id": 80,
-              "attr": {
-                "style": {
-                  "background": "#ADFF2F"
-                }
-              },
-              "ideas": {
-                "2": {
-                  "title": "RDS",
-                  "id": 84,
-                  "attr": {
-                    "style": {
-                      "background": "#ADFF2F"
-                    },
-                    "attachment": {
-                      "contentType": "text/html",
-                      "content": "<a href=\"http://sevilladecrece.net/\">http://sevilladecrece.net/</a>"
-                    }
-                  },
-                  "ideas": {
-                    "1": {
-                      "title": "beta",
-                      "id": 96
-                    },
-                    "2": {
-                      "title": "beta2",
-                      "id": 97,
-                      "attr": {
-                        "attachment": {
-                          "contentType": "text/html",
-                          "content": "<div>En desarrollo, futura web de la RDS</div><a href=\"http://beta.sevilladecrece.net/\">http://beta.sevilladecrece.net/</a>"
-                        },
-                        "style": {
-                          "background": "#E0E0E0"
-                        }
-                      }
-                    }
-                  }
-                },
-                "4": {
-                  "title": "Axarquía en Transición (Málaga)",
-                  "id": 86,
-                  "attr": {
-                    "style": {
-                      "background": "#ADFF2F"
-                    },
-                    "attachment": {
-                      "contentType": "text/html",
-                      "content": "http://axarquiaentransicion.org"
-                    }
-                  }
-                },
-                "5": {
-                  "title": "Granada Social",
-                  "id": 87,
-                  "attr": {
-                    "style": {
-                      "background": "#ADFF2F"
-                    },
-                    "attachment": {
-                      "contentType": "text/html",
-                      "content": "<a href=\"http://granadasocial.org/\">http://granadasocial.org/</a>"
-                    }
-                  }
-                },
-                "15": {
-                  "title": "Espacio Compartido",
-                  "id": 83,
-                  "attr": {
-                    "style": {
-                      "background": "#ADFF2F"
-                    },
-                    "attachment": {
-                      "contentType": "text/html",
-                      "content": "<a href=\"http://agendaespaciocompartido.blogspot.com.es/\">http://agendaespaciocompartido.blogspot.com.es/</a>"
-                    }
-                  }
-                },
-                "2.5": {
-                  "title": "REAS Sevilla",
-                  "id": 33,
-                  "attr": {
-                    "style": {
-                      "background": "#ADFF2F"
-                    },
-                    "attachment": {
-                      "contentType": "text/html",
-                      "content": "http://reas.sevillaentransicion.net"
-                    }
-                  }
-                }
-              }
-            },
-            "14": {
-              "title": "Magendo",
-              "id": 81,
-              "attr": {
-                "style": {
-                  "background": "#ADFF2F"
-                }
-              },
+              "title": "Satelite",
+              "id": 119,
               "ideas": {
                 "1": {
-                  "title": "Softwares previos al desarrollo",
-                  "id": 98,
-                  "ideas": {
-                    "1": {
-                      "title": "Demosphere",
-                      "id": 99,
-                      "attr": {
-                        "attachment": {
-                          "contentType": "text/html",
-                          "content": "<a href=\"http://main.demosphere.eu/es\">http://main.demosphere.eu/es</a>"
-                        },
-                        "style": {
-                          "background": "#E0E0E0"
-                        }
-                      },
-                      "ideas": {}
-                    },
-                    "0.5": {
-                      "title": "Lalinternaverde",
-                      "id": 101,
-                      "attr": {
-                        "attachment": {
-                          "contentType": "text/html",
-                          "content": "<a href=\"http://www.lalinternaverde.org/\" target=\"_blank\" rel=\"nofollow\" style=\"color: rgb(59, 89, 152); cursor: pointer; font-family: 'lucida grande', tahoma, verdana, arial, sans-serif; font-size: 11px; line-height: 15px;\">http://www.lalinternaverde.org</a>"
-                        },
-                        "style": {
-                          "background": "#E0E0E0"
-                        }
-                      }
+                  "title": "Ampliar paquete datos a 30GB",
+                  "id": 51,
+                  "attr": {
+                    "style": {
+                      "background": "#F4A460"
                     }
                   }
-                }
-              }
-            },
-            "24": {
-              "title": "Econowiki",
-              "id": 93,
-              "attr": {
-                "style": {
-                  "background": "#ADFF2F"
-                },
-                "attachment": {
-                  "contentType": "text/html",
-                  "content": "<a href=\"http://hackandalus.net/econored/\" target=\"_blank\">http://hackandalus.net/econowiki/</a>"
-                }
-              }
-            },
-            "13.5": {
-              "title": "Econored",
-              "id": 82,
-              "attr": {
-                "style": {
-                  "background": "#ADFF2F"
-                },
-                "attachment": {
-                  "contentType": "text/html",
-                  "content": "<a href=\"http://hackandalus.net/econored/\">http://hackandalus.net/econored/</a>"
-                }
-              }
-            }
-          }
-        },
-        "2.5": {
-          "title": "Tramallol",
-          "id": 43,
-          "ideas": {
-            "1": {
-              "title": "HACKERINA",
-              "id": 44,
-              "ideas": {
-                "1": {
-                  "title": "IP Fija",
-                  "id": 45
-                }
-              },
-              "attr": {
-                "style": {
-                  "background": "#00008B"
-                }
-              }
-            }
-          }
-        },
-        "2.25": {
-          "title": "NUBE",
-          "id": 49,
-          "ideas": {
-            "2": {
-              "title": "Hostings Externos",
-              "id": 73,
-              "ideas": {
-                "1": {
-                  "title": "NY",
-                  "id": 74,
-                  "ideas": {
-                    "1": {
-                      "title": "Mumble",
-                      "id": 78
-                    }
-                  }
-                },
-                "2": {
-                  "title": "Hostinger",
-                  "id": 75,
-                  "ideas": {
-                    "1": {
-                      "title": "MoodleAndalus",
-                      "id": 76,
-                      "ideas": {
-                        "1": {
-                          "title": "Ecosalud",
-                          "id": 89,
-                          "attr": {
-                            "style": {
-                              "background": "#ff00ff"
-                            },
-                            "attachment": {
-                              "contentType": "text/html",
-                              "content": "<a href=\"http://ecosalud.hackandalus.net/\">http://ecosalud.hackandalus.net/</a><div><a href=\"http://redecosalud.wordpress.com/\">http://redecosalud.wordpress.com/</a><br></div>"
-                            }
-                          }
-                        }
-                      },
-                      "attr": {
-                        "style": {
-                          "background": "#ff00ff"
-                        },
-                        "attachment": {
-                          "contentType": "text/html",
-                          "content": "<a href=\"http://theblackbit.org/moodle2/login/index.php\">http://theblackbit.org/moodle2/login/index.php</a>"
-                        }
-                      }
-                    }
-                  }
-                },
-                "3": {
-                  "title": "Gnuino",
-                  "id": 102
-                }
-              },
-              "attr": {
-                "style": {
-                  "background": "#7FFFD4"
-                }
-              }
-            }
-          },
-          "attr": {
-            "style": {
-              "background": "#FF00FF"
-            },
-            "attachment": {
-              "contentType": "text/html",
-              "content": "<a href=\"http://cloud.hackandalus.net/\">http://cloud.hackandalus.net</a>"
-            }
-          }
-        },
-        "1.5": {
-          "title": "OpenRadio",
-          "id": 90,
-          "attr": {
-            "style": {
-              "background": "#ff00ff"
-            }
-          },
-          "ideas": {
-            "1": {
-              "title": "OpenKratio",
-              "id": 92
-            }
-          }
-        }
-      }
-    },
-    "-11": {
-      "title": "PEÑA",
-      "id": 54,
-      "ideas": {
-        "1": {
-          "title": "Sioux",
-          "id": 55,
-          "attr": {
-            "style": {
-              "background": "#FF00FF"
-            }
-          },
-          "ideas": {
-            "1": {
-              "title": "fuchsia",
-              "id": 60,
-              "attr": {
-                "style": {
-                  "background": "#FF00FF"
                 }
               }
             }
           }
         },
         "2": {
-          "title": "Mnolae",
-          "id": 56,
-          "attr": {
-            "style": {
-              "background": "#FFC0CB"
-            }
-          },
+          "title": "Unidades móviles",
+          "id": 15,
           "ideas": {
             "1": {
-              "title": "pink",
-              "id": 61,
-              "attr": {
-                "style": {
-                  "background": "#FFC0CB"
-                }
-              }
-            }
-          }
-        },
-        "3": {
-          "title": "Tyler",
-          "id": 57,
-          "attr": {
-            "style": {
-              "background": "#F4A460"
-            }
-          },
-          "ideas": {
-            "1": {
-              "title": "sandybrown",
-              "id": 62,
+              "title": "UM1: Raspberry pi",
+              "id": 16
+            },
+            "2": {
+              "title": "UM2: Portatil",
+              "id": 17,
               "attr": {
                 "style": {
                   "background": "#F4A460"
@@ -674,9 +91,448 @@
             }
           }
         },
+        "3": {
+          "title": "Streaming",
+          "id": 28,
+          "attr": {
+            "style": {
+              "background": "#FF00FF"
+            }
+          },
+          "ideas": {
+            "1": {
+              "title": "streaming server: Giss.tv",
+              "id": 117
+            },
+            "1.5": {
+              "title": "streaming client: butt",
+              "id": 124,
+              "ideas": {
+                "1": {
+                  "title": "migrar a linux",
+                  "id": 123,
+                  "attr": {
+                    "style": {
+                      "background": "#E0E0E0"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "5": {
+          "title": "RADIOPOLINA",
+          "id": 40,
+          "ideas": {
+            "1": {
+              "title": "Nat Satélite",
+              "id": 41,
+              "attr": {
+                "style": {
+                  "background": "#FF00FF"
+                }
+              },
+              "ideas": {
+                "1": {
+                  "title": "Tunneling",
+                  "id": 122
+                }
+              }
+            },
+            "2": {
+              "title": "RedJara",
+              "id": 52,
+              "attr": {
+                "style": {
+                  "background": "#FF00FF"
+                },
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "<a href=\"http://comunidad.redjara.net/\">http://comunidad.redjara.net/</a>"
+                }
+              }
+            },
+            "3": {
+              "title": "Cyclos",
+              "id": 71,
+              "attr": {
+                "style": {
+                  "background": "#FF00FF"
+                }
+              }
+            },
+            "4": {
+              "title": "Mumble",
+              "id": 72
+            },
+            "6": {
+              "title": "Gestión de HDD",
+              "id": 130,
+              "ideas": {
+                "1": {
+                  "title": "Publicación de proramas a iVoox",
+                  "id": 129,
+                  "attr": {
+                    "style": {
+                      "background": "#E0E0E0"
+                    }
+                  }
+                },
+                "0.5": {
+                  "title": "Acceso por Samba",
+                  "id": 131
+                }
+              }
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#00008B"
+            }
+          }
+        },
+        "1.5": {
+          "title": "Telefonía",
+          "id": 27,
+          "attr": {
+            "style": {
+              "background": "#FF00FF"
+            }
+          },
+          "ideas": {
+            "1": {
+              "title": "Movistar",
+              "id": 120
+            },
+            "2": {
+              "title": "Router Vo-ip",
+              "id": 121
+            }
+          }
+        },
+        "1.75": {
+          "title": "Red local",
+          "id": 125,
+          "ideas": {
+            "1": {
+              "title": "Router de red sustituir SMC por uno mejor",
+              "id": 126
+            },
+            "2": {
+              "title": "Migrar a Linux Estudio B",
+              "id": 127
+            }
+          }
+        }
+      },
+      "attr": {
+        "style": {
+          "background": "#E0E0E0"
+        }
+      }
+    },
+    "4": {
+      "title": "OpenKratio",
+      "id": 18,
+      "ideas": {
+        "2": {
+          "title": "III Jornadas OpenKratio (Febrero 2014)",
+          "id": 21
+        },
+        "3": {
+          "title": "OpenRadio",
+          "id": 90,
+          "attr": {
+            "style": {
+              "background": "#ff00ff"
+            }
+          },
+          "ideas": {}
+        }
+      },
+      "attr": {
+        "style": {
+          "background": "#E0E0E0"
+        }
+      }
+    },
+    "5": {
+      "title": "Espacios y Colectivos",
+      "id": 80,
+      "attr": {
+        "style": {
+          "background": "#ADFF2F"
+        }
+      },
+      "ideas": {
+        "2": {
+          "title": "RDS",
+          "id": 84,
+          "attr": {
+            "style": {
+              "background": "#ADFF2F"
+            },
+            "attachment": {
+              "contentType": "text/html",
+              "content": "<a href=\"http://sevilladecrece.net/\">http://sevilladecrece.net/</a>"
+            }
+          },
+          "ideas": {
+            "1": {
+              "title": "beta",
+              "id": 96
+            },
+            "2": {
+              "title": "beta2",
+              "id": 97,
+              "attr": {
+                "attachment": {
+                  "contentType": "text/html",
+                  "content": "<div>En desarrollo, futura web de la RDS</div><a href=\"http://beta.sevilladecrece.net/\">http://beta.sevilladecrece.net/</a>"
+                },
+                "style": {
+                  "background": "#E0E0E0"
+                }
+              }
+            }
+          }
+        },
         "4": {
-          "title": "Jusore",
-          "id": 58,
+          "title": "Axarquía en Transición (Málaga)",
+          "id": 86,
+          "attr": {
+            "style": {
+              "background": "#ADFF2F"
+            },
+            "attachment": {
+              "contentType": "text/html",
+              "content": "http://axarquiaentransicion.org"
+            }
+          }
+        },
+        "5": {
+          "title": "Granada Social",
+          "id": 87,
+          "attr": {
+            "style": {
+              "background": "#ADFF2F"
+            },
+            "attachment": {
+              "contentType": "text/html",
+              "content": "<a href=\"http://granadasocial.org/\">http://granadasocial.org/</a>"
+            }
+          }
+        },
+        "15": {
+          "title": "Espacio Compartido",
+          "id": 83,
+          "attr": {
+            "style": {
+              "background": "#ADFF2F"
+            },
+            "attachment": {
+              "contentType": "text/html",
+              "content": "<a href=\"http://agendaespaciocompartido.blogspot.com.es/\">http://agendaespaciocompartido.blogspot.com.es/</a>"
+            }
+          }
+        },
+        "16": {
+          "title": "Mapunto Andaluz",
+          "id": 32,
+          "attr": {
+            "style": {
+              "background": "#ADFF2F"
+            },
+            "attachment": {
+              "contentType": "text/html",
+              "content": "http://<span style=\"font-size: 14px;\">mapa.sevilladecrece.net/</span>"
+            }
+          },
+          "ideas": {
+            "2": {
+              "title": "Migración de dominio",
+              "id": 139,
+              "ideas": {
+                "1": {
+                  "title": "Arreglo del enlace, hablar con el administrador del portal.",
+                  "id": 138,
+                  "attr": {
+                    "style": {
+                      "background": "#E0E0E0"
+                    }
+                  }
+                }
+              }
+            },
+            "3": {
+              "title": "Mapa pendiente de denuncias, hablado con EeA",
+              "id": 147
+            }
+          }
+        },
+        "2.5": {
+          "title": "REAS Sevilla",
+          "id": 33,
+          "attr": {
+            "style": {
+              "background": "#ADFF2F"
+            },
+            "attachment": {
+              "contentType": "text/html",
+              "content": "http://reas.sevillaentransicion.net"
+            }
+          }
+        }
+      }
+    },
+    "6": {
+      "title": "CIG",
+      "id": 23,
+      "ideas": {
+        "1": {
+          "title": "Salmelada",
+          "id": 29
+        },
+        "2": {
+          "title": "GCUBO",
+          "id": 30,
+          "attr": {
+            "attachment": {
+              "contentType": "text/html",
+              "content": "<a href=\"http://gcubo.org/\">http://gcubo.org/</a>"
+            },
+            "style": {
+              "background": "#E0E0E0"
+            }
+          },
+          "ideas": {}
+        },
+        "3": {
+          "title": "Prestashop",
+          "id": 95
+        }
+      },
+      "attr": {
+        "style": {
+          "background": "#FF00FF"
+        },
+        "attachment": {
+          "contentType": "text/html",
+          "content": "<a href=\"http://ci-granaina.org/\">http://ci-granaina.org/</a>"
+        }
+      }
+    },
+    "8": {
+      "title": "Plataforma teleformación política",
+      "id": 132,
+      "ideas": {
+        "1": {
+          "title": "Moodle",
+          "id": 133
+        }
+      }
+    },
+    "9": {
+      "title": "RedSokio",
+      "id": 140,
+      "ideas": {
+        "1": {
+          "title": "Intentar ir a las reuniones. Hablar con SOKIO ética hacker para niños",
+          "id": 141
+        }
+      }
+    },
+    "10": {
+      "title": "REAS",
+      "id": 148,
+      "ideas": {
+        "1": {
+          "title": "Movilizar a la pena para ir a las reuniones",
+          "id": 149
+        }
+      }
+    },
+    "-12": {
+      "title": "Tramallol",
+      "id": 43,
+      "ideas": {
+        "1": {
+          "title": "HACKERINA",
+          "id": 44,
+          "ideas": {
+            "1": {
+              "title": "IP Fija",
+              "id": 45
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#00008B"
+            }
+          }
+        },
+        "2": {
+          "title": "Red local",
+          "id": 114,
+          "ideas": {
+            "1": {
+              "title": "Internet por fibra",
+              "id": 115
+            }
+          }
+        },
+        "3": {
+          "title": "Presentación de servicios de HA.",
+          "id": 150
+        }
+      },
+      "attr": {
+        "style": {
+          "background": "#E0E0E0"
+        }
+      }
+    },
+    "-13": {
+      "title": "Decrecimiento Sevilla",
+      "id": 103,
+      "ideas": {
+        "1": {
+          "title": "III Encuentro Decrecimiento / Transición (Noviembre 2013)",
+          "id": 19,
+          "attr": {
+            "attachment": {
+              "contentType": "text/html",
+              "content": "<a href=\"http://encuentrodecrecentista2013.wordpress.com/\">http://encuentrodecrecentista2013.wordpress.com/</a>"
+            },
+            "style": {
+              "background": "#E0E0E0"
+            }
+          }
+        }
+      }
+    },
+    "-15": {
+      "title": "H-1",
+      "id": 38,
+      "attr": {
+        "style": {
+          "background": "#ADFF2F"
+        }
+      },
+      "ideas": {
+        "12": {
+          "title": "Integral CES",
+          "id": 59,
+          "attr": {
+            "style": {
+              "background": "#FFC0CB"
+            }
+          }
+        },
+        "14": {
+          "title": "Magendo",
+          "id": 81,
           "attr": {
             "style": {
               "background": "#ADFF2F"
@@ -684,40 +540,289 @@
           },
           "ideas": {
             "1": {
-              "title": "greenyellow",
-              "id": 63,
-              "attr": {
-                "style": {
-                  "background": "#ADFF2F"
+              "title": "Softwares previos al desarrollo",
+              "id": 98,
+              "ideas": {
+                "1": {
+                  "title": "Demosphere",
+                  "id": 99,
+                  "attr": {
+                    "attachment": {
+                      "contentType": "text/html",
+                      "content": "<a href=\"http://main.demosphere.eu/es\">http://main.demosphere.eu/es</a>"
+                    },
+                    "style": {
+                      "background": "#E0E0E0"
+                    }
+                  },
+                  "ideas": {}
+                },
+                "0.5": {
+                  "title": "Lalinternaverde",
+                  "id": 101,
+                  "attr": {
+                    "attachment": {
+                      "contentType": "text/html",
+                      "content": "<a href=\"http://www.lalinternaverde.org/\" target=\"_blank\" rel=\"nofollow\" style=\"color: rgb(59, 89, 152); cursor: pointer; font-family: 'lucida grande', tahoma, verdana, arial, sans-serif; font-size: 11px; line-height: 15px;\">http://www.lalinternaverde.org</a>"
+                    },
+                    "style": {
+                      "background": "#E0E0E0"
+                    }
+                  }
                 }
               }
             }
           }
         },
-        "5": {
-          "title": "Alberludo",
-          "id": 64,
+        "24": {
+          "title": "Econowiki",
+          "id": 93,
+          "attr": {
+            "style": {
+              "background": "#ADFF2F"
+            },
+            "attachment": {
+              "contentType": "text/html",
+              "content": "<a href=\"http://hackandalus.net/econored/\" target=\"_blank\">http://hackandalus.net/econowiki/</a>"
+            }
+          }
+        },
+        "13.5": {
+          "title": "Econored",
+          "id": 82,
+          "attr": {
+            "style": {
+              "background": "#ADFF2F"
+            },
+            "attachment": {
+              "contentType": "text/html",
+              "content": "<a href=\"http://hackandalus.net/econored/\">http://hackandalus.net/econored/</a>"
+            }
+          }
+        }
+      }
+    },
+    "-17": {
+      "title": "Ecosalud",
+      "id": 89,
+      "attr": {
+        "style": {
+          "background": "#ff00ff"
+        },
+        "attachment": {
+          "contentType": "text/html",
+          "content": "<a href=\"http://ecosalud.hackandalus.net/\">http://ecosalud.hackandalus.net/</a><div><a href=\"http://redecosalud.wordpress.com/\">http://redecosalud.wordpress.com/</a><br></div>"
+        }
+      },
+      "ideas": {
+        "1": {
+          "title": "MoodleAndalus",
+          "attr": {
+            "style": {
+              "background": "#ff00ff"
+            },
+            "attachment": {
+              "contentType": "text/html",
+              "content": "<a href=\"http://theblackbit.org/moodle2/login/index.php\">http://theblackbit.org/moodle2/login/index.php</a>"
+            }
+          },
+          "ideas": {},
+          "id": 134
+        }
+      }
+    },
+    "-6": {
+      "title": "WEB propia",
+      "id": 4,
+      "ideas": {
+        "1": {
+          "title": "Nuevo diseño",
+          "id": 5,
           "attr": {
             "style": {
               "background": "#FF7F50"
             }
-          },
+          }
+        },
+        "2": {
+          "title": "Camapaña de Difusión Servicios",
+          "id": 6,
           "ideas": {
             "1": {
-              "title": "coral",
-              "id": 65,
+              "title": "Hoja de Servicios - Fancine",
+              "id": 8,
               "attr": {
                 "style": {
                   "background": "#FF7F50"
                 }
               }
+            },
+            "2": {
+              "title": "Tarjetas",
+              "id": 9
+            },
+            "3": {
+              "title": "Impresión de folletos",
+              "id": 116
+            }
+          }
+        },
+        "3": {
+          "title": "Integrar Mapunto",
+          "id": 7,
+          "attr": {
+            "style": {
+              "background": "#ADFF2F"
+            },
+            "attachment": {
+              "contentType": "text/html",
+              "content": "<a href=\"http://hackandalus.net/econored/\">http://hackandalus.net/econored/</a>"
+            }
+          }
+        },
+        "4": {
+          "title": "Mejorar Contenidos",
+          "id": 66
+        },
+        "1.5": {
+          "title": "Estructurar con el diseño",
+          "id": 67,
+          "attr": {
+            "style": {
+              "background": "#FFC0CB"
             }
           }
         }
       },
       "attr": {
         "style": {
-          "background": "#0000FF"
+          "background": "#E0E0E0"
+        }
+      }
+    },
+    "-3": {
+      "title": "NUBE HA",
+      "id": 49,
+      "ideas": {
+        "2": {
+          "title": "Hostings Externos",
+          "id": 73,
+          "ideas": {
+            "1": {
+              "title": "NY",
+              "id": 74,
+              "ideas": {
+                "1": {
+                  "title": "Mumble",
+                  "id": 78
+                }
+              }
+            },
+            "2": {
+              "title": "Hostinger",
+              "id": 75,
+              "ideas": {}
+            },
+            "3": {
+              "title": "Gnuino",
+              "id": 102
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#7FFFD4"
+            }
+          }
+        }
+      },
+      "attr": {
+        "style": {
+          "background": "#FF00FF"
+        },
+        "attachment": {
+          "contentType": "text/html",
+          "content": "<a href=\"http://cloud.hackandalus.net/\">http://cloud.hackandalus.net</a>"
+        }
+      }
+    },
+    "-18": {
+      "title": "Partido X",
+      "id": 135,
+      "ideas": {
+        "1": {
+          "title": "Reparto de publicidad acto de presentación a las europeas",
+          "id": 136
+        }
+      }
+    },
+    "-19": {
+      "title": "Ecologistas en acción",
+      "id": 142,
+      "ideas": {
+        "1": {
+          "title": "Preparado un Moodle para que puedan trabajar",
+          "id": 144
+        },
+        "2": {
+          "title": "Plataforma de gestión de contenidos pendiente usando hackerina.",
+          "id": 146
+        }
+      }
+    },
+    "-16.5": {
+      "title": "FACPE",
+      "id": 106,
+      "ideas": {
+        "1": {
+          "title": "Gestion de dominio",
+          "id": 107,
+          "ideas": {
+            "1": {
+              "title": "Alojamiento web",
+              "id": 108
+            },
+            "2": {
+              "title": "Gestión de correos",
+              "id": 109
+            },
+            "3": {
+              "title": "Gestión de listas de correos",
+              "id": 110
+            }
+          }
+        }
+      }
+    },
+    "-16.75": {
+      "title": "La Ortiga",
+      "id": 37,
+      "attr": {
+        "style": {
+          "background": "#F4A460"
+        }
+      },
+      "ideas": {
+        "2": {
+          "title": "Gestion de dominio",
+          "id": 105,
+          "ideas": {
+            "1": {
+              "title": "Alojamiento web",
+              "id": 111
+            },
+            "2": {
+              "title": "Gestión de correos",
+              "id": 112
+            },
+            "3": {
+              "title": "Gestión de listas de correos",
+              "id": 113
+            }
+          }
+        },
+        "12": {
+          "title": "Tryton",
+          "id": 104
         }
       }
     }
@@ -726,46 +831,6 @@
     {
       "ideaIdFrom": 33,
       "ideaIdTo": 32,
-      "attr": {
-        "style": {
-          "color": "#FF0000",
-          "lineStyle": "dashed"
-        }
-      }
-    },
-    {
-      "ideaIdFrom": 49,
-      "ideaIdTo": 40,
-      "attr": {
-        "style": {
-          "color": "#FF0000",
-          "lineStyle": "dashed"
-        }
-      }
-    },
-    {
-      "ideaIdFrom": 49,
-      "ideaIdTo": 44,
-      "attr": {
-        "style": {
-          "color": "#FF0000",
-          "lineStyle": "dashed"
-        }
-      }
-    },
-    {
-      "ideaIdFrom": 15,
-      "ideaIdTo": 18,
-      "attr": {
-        "style": {
-          "color": "#FF0000",
-          "lineStyle": "dashed"
-        }
-      }
-    },
-    {
-      "ideaIdFrom": 90,
-      "ideaIdTo": 26,
       "attr": {
         "style": {
           "color": "#FF0000",
