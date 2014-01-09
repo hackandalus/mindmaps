@@ -4,7 +4,7 @@
   "formatVersion": 2,
   "ideas": {
     "1": {
-      "title": "Externos",
+      "title": "Proyectos Externos",
       "id": 10,
       "ideas": {
         "4": {
@@ -29,7 +29,23 @@
       "ideas": {
         "2": {
           "title": "Hackmeeting 2014",
-          "id": 70
+          "id": 70,
+          "ideas": {
+            "1": {
+              "title": "Organización",
+              "id": 151,
+              "ideas": {
+                "1": {
+                  "title": "Primera reunión diciembre 2013",
+                  "id": 152
+                },
+                "2": {
+                  "title": "Segunda reunión enero 2014",
+                  "id": 153
+                }
+              }
+            }
+          }
         },
         "12": {
           "title": "Hackesí",
